@@ -10,27 +10,11 @@ I have over 10 years of industry experience across network analysis, fraud preve
 
 ---
 
-## Work
-
-My experience spans both engineering and data science, with a strong emphasis on end-to-end systems.
-
-I have built:
-
-- Machine learning pipelines running at scale in cloud environments  
-- Video analytics systems utilizing computer vision for sports and performance analysis  
-- Fraud detection and network analysis systems  
-- Customer-facing applications backed by ML models  
-- Internal tools and frameworks to accelerate development  
-
----
-
 ## Current Focus
 
-- AI-assisted software development  
-- Agent-based systems    
-- Building reusable systems and workflows  
 - Applying AI to real-world problems
-- Building end-to-end systems
+- AI-assisted software development  
+- Building end-to-end systems  
 
 ---
 
