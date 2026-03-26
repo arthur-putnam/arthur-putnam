@@ -1,12 +1,3 @@
-
-
-
-can you create a github readme profile based on my info background. Also mention that use gitlab more than github but 
-
-I can absolutely do that. I’ll keep it clean, professional, and aligned with your background while still feeling personal and authentic.
-
-Here is a polished GitHub profile README (Markdown) you can drop into a repo named exactly your username:
-
 # Hi, I'm Arthur 👋
 
 I’m a Full Stack Data Scientist at AWS focused on building real-world AI and machine learning systems that operate at scale. My work sits at the intersection of applied ML, software engineering, and cloud infrastructure.
@@ -200,23 +191,5 @@ If you're working on applied AI, developer tooling, or interesting real-world sy
 > “Always dream and shoot higher than you know you can do.” – William Faulkner
 Why this version works (quick insight)
 It mirrors your site tone (practical, grounded, not hype-heavy)
-
-Keeps your breadth without sounding scattered
-
-Subtly differentiates you as a builder + consultant + educator
-
-Includes the GitLab note naturally (not awkwardly)
-
-If you want, I can take this one step further and:
-
-Add badges + visuals (GitHub stats, AWS, etc.)
-
-Include featured projects (NFL, pipelines, etc.)
-
-Make a “recruiter-facing” vs “builder-facing” version
-
-Just tell me the direction.
-
-
 
 
