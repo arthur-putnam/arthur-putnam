@@ -12,20 +12,13 @@ I have over 10 years of industry experience across network analysis, fraud preve
 
 ## Current Focus
 
+- Having fun building end-to-end systems  
 - Applying AI to real-world problems
 - AI-assisted software development  
-- Building end-to-end systems  
 
----
-
-## Philosophy
-
-I believe good engineering is about clarity, simplicity, and usefulness.
-
-Technology should solve real problems. AI should amplify engineers, not replace them.
 
 ---
 
 ## Contact
 
-If you're working on something interesting in AI, software systems, or applied machine learning, feel free to reach out.
+If you're working on something interesting in AI, software systems, or applied machine learning, feel free to reach out. Best way to connect with me is via LinkedIn. 
