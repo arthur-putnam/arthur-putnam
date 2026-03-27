@@ -43,4 +43,4 @@ In practice, I use both platforms intentionally depending on the context.
 
 ## Contact
 
-If you're working on something interesting in AI, software systems, or applied machine learning, feel free to reach out. Best way to connect with me is via LinkedIn. 
+If you're working on something interesting in AI, software systems, or applied machine learning, feel free to reach out. The best way to reach me is via LinkedIn [https://www.linkedin.com/in/arthur-putnam](https://www.linkedin.com/in/arthur-putnam). 
